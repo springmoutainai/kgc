@@ -1,14 +1,23 @@
-# kgc
-Knowledge graph completion
+### Knowledge Graph Completion
 
 ## Requirements
 
-Python 3.6
+⋅⋅* Python 3.6
 
-Pytorch 1.7.1
+⋅⋅* Pytorch 1.7.1
 
-Geoopt
+⋅⋅* Geoopt
 
-tqdm
+⋅⋅* tqdm
+
+## Experiments
+
+# 1. Preparing data
+
+# 2. Commands
+
+# 3. Models and Metrics
+
+
 
 
