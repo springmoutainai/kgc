@@ -1,6 +1,6 @@
 # Knowledge Graph Completion
 
-## Requirements
+## Prerequisite
 
 * Python 3.6
 
@@ -12,11 +12,13 @@
 
 ## Experiments
 
-### 1. Preparing data
+### 1. Data Preparation
 
-### 2. Commands
+### 2. Training & Testing
 
 ### 3. Models and Metrics
+
+## Acknowledgement
 
 
 
