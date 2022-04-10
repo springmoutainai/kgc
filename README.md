@@ -2,13 +2,13 @@
 
 ## Requirements
 
-⋅⋅* Python 3.6
+* Python 3.6
 
-⋅⋅* Pytorch 1.7.1
+* Pytorch 1.7.1
 
-⋅⋅* Geoopt
+* Geoopt
 
-⋅⋅* tqdm
+* tqdm
 
 ## Experiments
 
