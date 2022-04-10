@@ -1,7 +1,7 @@
 # kgc
 Knowledge graph completion
 
-Requirements
+## Requirements
 
 Python 3.6
 
