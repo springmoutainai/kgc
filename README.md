@@ -1,4 +1,4 @@
-### Knowledge Graph Completion
+# Knowledge Graph Completion
 
 ## Requirements
 
@@ -12,11 +12,11 @@
 
 ## Experiments
 
-# 1. Preparing data
+### 1. Preparing data
 
-# 2. Commands
+### 2. Commands
 
-# 3. Models and Metrics
+### 3. Models and Metrics
 
 
 
