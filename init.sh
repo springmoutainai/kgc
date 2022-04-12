@@ -1,6 +1,6 @@
 #!/bin/bash
 # Uncompress data files
-tar -xvzf data.tar.xz
+tar -xvzf data.zip
 
 # create necessary dirs
 mkdir -p ckpt
