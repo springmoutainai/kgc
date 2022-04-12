@@ -52,7 +52,7 @@ python -m torch.distributed.launch --nproc_per_node=N_CPUS --master_port=2055 tr
             --train_bias
 ```
 
-To train and test the ![\operatorname{SPD}_6^{le}](https://latex.codecogs.com/svg.image?\operatorname{SPD}_6^{le}) model, 
+To train and test the ![\operatorname{SPD}_{14}^{le}](https://latex.codecogs.com/svg.image?\operatorname{SPD}_{14}^{le}) model, 
 run the following command
 
 ```
@@ -93,7 +93,7 @@ python -m torch.distributed.launch --nproc_per_node=N_CPUS --master_port=2055 tr
             --train_bias
 ```
 
-To train and test the ![\operatorname{SPD}_5^{le} \times \operatorname{Gr}_{5,2}](https://latex.codecogs.com/svg.image?\operatorname{SPD}_5^{le}&space;\times&space;\operatorname{Gr}_{5,2}) model, run the following command
+To train and test the ![\operatorname{SPD}_{13}^{le} \times \operatorname{Gr}_{14,13}](https://latex.codecogs.com/svg.image?\operatorname{SPD}_{13}^{le}&space;\times&space;\operatorname{Gr}_{14,13}) model, run the following command
 
 ```
 python -m torch.distributed.launch --nproc_per_node=N_CPUS --master_port=2055 train.py \\
