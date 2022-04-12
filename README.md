@@ -63,7 +63,7 @@ python -m torch.distributed.launch --nproc_per_node=N_CPUS --master_port=2055 tr
             --results_file=out/results.csv \\
             --model=tgspdle \\
             --metric=riem \\
-            --dims=6 \\
+            --dims=14 \\
             --learning_rate=1e-3 \\
             --val_every=5 \\
             --patience=500 \\
@@ -103,9 +103,9 @@ python -m torch.distributed.launch --nproc_per_node=N_CPUS --master_port=2055 tr
             --results_file=out/results.csv \\
             --model=tgspdlegr \\
             --metric=riem \\
-            --dims=5 \\
-            --pdim=5 \\
-            --kdim=2 \\
+            --dims=14 \\
+            --pdim=13 \\
+            --kdim=13 \\
             --learning_rate=1e-3 \\
             --val_every=5 \\
             --patience=500 \\
