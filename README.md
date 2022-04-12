@@ -12,7 +12,7 @@
 
 ## Experiments
 
-### 1. Init repo
+### 1. Init repository
 
 To uncompress the data and create the output directories, run the following command
 
