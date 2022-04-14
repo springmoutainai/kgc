@@ -121,7 +121,7 @@ The available options for the parameter `--model` are:
 
 * `tgspdle`: Applies a scaling on the head embedding. Embeddings are SPD matrices with a Log-Euclidean geometry. 
 
-* `tggr`: Applies a scaling on the head embedding. Embedding are p-dimensional subspaces of R^n. 
+* `tggr`: Applies a scaling on the head embedding. Embedding are p-dimensional subspaces of ![\mathbb{R}^n](https://latex.codecogs.com/svg.image?\mathbb{R}^n). 
 
 * `tgspdlegr`: Applies a scaling on the head embedding with the mixture model. 
 
